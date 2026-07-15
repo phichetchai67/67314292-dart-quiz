@@ -1,4 +1,7 @@
 final vatRate = 0.07;
+void calcTotal(){
+
+}
 void main(){
    final shopName = "Dart Cafe";
    print("ร้าน: $shopName");
@@ -21,6 +24,5 @@ void main(){
       if (i > 50){
         print(' : $i');
       }
-
      }
 }

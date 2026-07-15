@@ -14,6 +14,8 @@ class Drink extends MenuItem{
   }
 }
 class Food extends MenuItem{
-  
+  var S = 1.0;
+  var S = 1.0;
+
 }
 }
