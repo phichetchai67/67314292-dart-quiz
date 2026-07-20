@@ -1,0 +1,1 @@
+final vatRate = 0.07;
